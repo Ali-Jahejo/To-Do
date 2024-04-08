@@ -1,18 +1,17 @@
 {
   "name": "ali_jahejo_todo",
-  "version": "1.0.0",
-  "description": "TO-DO List",
+  "version": "2.0.0",
+  "description": "Updated To-Do App With More Features.",
   "main": "index.js",
   "type": "module",
   "bin": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
-    "inquirer": "^9.2.16"
+    "inquirer": "^9.2.17"
   },
   "devDependencies": {
     "@types/inquirer": "^9.0.7"
